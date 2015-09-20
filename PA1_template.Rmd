@@ -1,7 +1,11 @@
-Reproducible Research: Peer Assessment 1
-========================================
+---
+output: 
+  html_document: 
+    keep_md: yes
+---
+Coursera: Reproducible Research: Peer Assessment 1
+==================================================
 created by Santiago Cardarelli
-
 
 ##1-.Loading and preprocessing the data
 
